@@ -10,6 +10,10 @@
 
 # production
 /build
+/blend_models
+
+# GIMP sprite files
+/sprite_files
 
 # misc
 .DS_Store
